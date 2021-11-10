@@ -6,10 +6,7 @@ import java.time.LocalDate;
 
 public class Funcionario {
 	
-	private String nome;
-	private String cpf;
-	private Cargo cargo;
-	private BigDecimal salario;
+
 	private LocalDate dataUltimoReajuste;
 
 	public Funcionario(String nome, String cpf, Cargo cargo, BigDecimal salario) {

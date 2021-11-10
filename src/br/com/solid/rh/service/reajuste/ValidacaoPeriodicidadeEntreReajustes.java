@@ -3,9 +3,8 @@ package br.com.solid.rh.service.reajuste;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
-
-import br.com.alura.rh.ValidacaoException;
-import br.com.alura.rh.model.Funcionario;
+import br.com.solid.rh.ValidacaoException;
+import br.com.solid.rh.model.Funcionario;
 
 public class ValidacaoPeriodicidadeEntreReajustes  implements ValidacaoReajuste {
 	

@@ -3,6 +3,7 @@ package br.com.solid.rh.service.promocao;
 import br.com.solid.rh.ValidacaoException;
 import br.com.solid.rh.model.Cargo;
 import br.com.solid.rh.model.Funcionario;
+import br.com.solid.rh.model.Terceirizado;
 
 public class PromocaoService {
 
