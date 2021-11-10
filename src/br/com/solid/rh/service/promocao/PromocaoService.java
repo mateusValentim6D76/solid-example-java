@@ -15,5 +15,8 @@ public class PromocaoService {
             Cargo novoCargo = cargoAtual.getProximoCargo();
             funcionario.promover(novoCargo);
         }
+        else {
+            throw new ValidacaoException("Funcionário não bateu a meta");
+        }
     }
 }
