@@ -3,7 +3,7 @@ package br.com.solid.rh.service.reajuste;
 import java.math.BigDecimal;
 import java.util.List;
 
-import br.com.alura.rh.model.Funcionario;
+import br.com.solid.rh.model.Funcionario;
 
 public class ReajusteService {
 	

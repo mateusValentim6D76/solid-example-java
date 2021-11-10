@@ -2,7 +2,7 @@ package br.com.solid.rh.service.reajuste;
 
 import java.math.BigDecimal;
 
-import br.com.alura.rh.model.Funcionario;
+import br.com.solid.rh.model.Funcionario;
 
 public interface ValidacaoReajuste {
 	
